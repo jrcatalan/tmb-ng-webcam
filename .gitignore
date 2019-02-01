@@ -1,0 +1,15 @@
+## folders
+.tmp/
+coverage/
+node_modules/
+jspm_packages/
+bower_components/
+.idea/
+
+## files
+.DS_Store
+Thumbs.db
+npm-debug.log
+
+## app
+app/
